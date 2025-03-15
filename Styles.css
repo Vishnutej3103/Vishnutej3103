@@ -1,0 +1,37 @@
+.header-footer{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 50px;
+}
+main{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* border: 2px solid black; */
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 5px 20px gray;
+}
+img{
+    width: 60%;
+    border-radius: 50%;
+}
+a:link, a:visited{
+   color: darkblue;
+   text-decoration: none;
+   display: inline-block;
+   padding: 10px 10px;
+   /* border: 2px solid gold; */
+}
+a:hover, a:active {
+    background-color: deepskyblue;
+    color: bisque;
+  }
+p{
+    color: cornflowerblue;
+}
+h2{
+    color: indigo;
+}
